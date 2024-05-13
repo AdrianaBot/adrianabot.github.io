@@ -1,6 +1,6 @@
 # Overview
 
-Personal website I coded in HTML, CSS, JavaScript and React.js/JSX. <br>
+(First! o.O) Personal website I coded in HTML, CSS, JavaScript and React.js/JSX. <br>
 I also used React Bootstrap for some components and 98.css. <br>
 I have my projects, skills and socials here. (:
 
