@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/adrianabot.github.io/static/css/main.4e562033.css",
-    "main.js": "/adrianabot.github.io/static/js/main.7b6ea722.js",
-    "static/js/453.1407b060.chunk.js": "/adrianabot.github.io/static/js/453.1407b060.chunk.js",
-    "static/media/banner-background.jpeg": "/adrianabot.github.io/static/media/banner-background.79150119ad82f6fa5025.jpeg",
-    "static/media/projects-background.jpg": "/adrianabot.github.io/static/media/projects-background.4de855ad685fee0ca769.jpg",
-    "static/media/lunaHeader.png": "/adrianabot.github.io/static/media/lunaHeader.4ba815f6d449362e6935.png",
-    "static/media/github.png": "/adrianabot.github.io/static/media/github.41bf98757324c33fba78.png",
-    "static/media/skills-background.jpg": "/adrianabot.github.io/static/media/skills-background.a8db7c7c29544a6b9d9a.jpg",
-    "static/media/revicons.eot": "/adrianabot.github.io/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/adrianabot.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/projectsBackground.jpg": "/adrianabot.github.io/static/media/projectsBackground.50adcfc42018712fca2a.jpg",
-    "static/media/ms-sans-serif-1.otf": "/adrianabot.github.io/static/media/ms-sans-serif-1.3cc3e950da476af0c50e.otf",
-    "static/media/ms_sans_serif.woff": "/adrianabot.github.io/static/media/ms_sans_serif.aac84aa6de42b83d1a62.woff",
-    "static/media/ms_sans_serif_bold.woff": "/adrianabot.github.io/static/media/ms_sans_serif_bold.9fbe71248995f1c639d4.woff",
-    "static/media/revicons.woff": "/adrianabot.github.io/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/ms_sans_serif.woff2": "/adrianabot.github.io/static/media/ms_sans_serif.0348082abb503fb6a8c2.woff2",
-    "static/media/ms_sans_serif_bold.woff2": "/adrianabot.github.io/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
-    "index.html": "/adrianabot.github.io/index.html",
-    "main.4e562033.css.map": "/adrianabot.github.io/static/css/main.4e562033.css.map",
-    "main.7b6ea722.js.map": "/adrianabot.github.io/static/js/main.7b6ea722.js.map",
-    "453.1407b060.chunk.js.map": "/adrianabot.github.io/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/static/css/main.ee827bc2.css",
+    "main.js": "/static/js/main.a74c879f.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/banner-background.jpeg": "/static/media/banner-background.79150119ad82f6fa5025.jpeg",
+    "static/media/projects-background.jpg": "/static/media/projects-background.4de855ad685fee0ca769.jpg",
+    "static/media/lunaHeader.png": "/static/media/lunaHeader.4ba815f6d449362e6935.png",
+    "static/media/github.png": "/static/media/github.41bf98757324c33fba78.png",
+    "static/media/skills-background.jpg": "/static/media/skills-background.a8db7c7c29544a6b9d9a.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/projectsBackground.jpg": "/static/media/projectsBackground.50adcfc42018712fca2a.jpg",
+    "static/media/ms-sans-serif-1.otf": "/static/media/ms-sans-serif-1.3cc3e950da476af0c50e.otf",
+    "static/media/ms_sans_serif.woff": "/static/media/ms_sans_serif.aac84aa6de42b83d1a62.woff",
+    "static/media/ms_sans_serif_bold.woff": "/static/media/ms_sans_serif_bold.9fbe71248995f1c639d4.woff",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/ms_sans_serif.woff2": "/static/media/ms_sans_serif.0348082abb503fb6a8c2.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
+    "index.html": "/index.html",
+    "main.ee827bc2.css.map": "/static/css/main.ee827bc2.css.map",
+    "main.a74c879f.js.map": "/static/js/main.a74c879f.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e562033.css",
-    "static/js/main.7b6ea722.js"
+    "static/css/main.ee827bc2.css",
+    "static/js/main.a74c879f.js"
   ]
 }
